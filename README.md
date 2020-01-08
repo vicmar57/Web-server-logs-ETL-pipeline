@@ -1,6 +1,6 @@
-# Project Name
+# Web-server-logs-ETL-pipeline
 
-Web-server-logs-ETL-pipeline
+ETL streaming pipeline using python. generating a constant stream of fake web server logs and analyzing it, and storing in a PostgreSQL DB
 
 ## Installation
 
