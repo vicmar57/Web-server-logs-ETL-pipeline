@@ -2,6 +2,8 @@
 
 ETL streaming pipeline using python. generating a constant stream of fake web server logs and analyzing it, and storing in a PostgreSQL DB
 
+![Alt text](log_stream_pipeline.png?raw=true "Pipeline illustration")
+
 ## Installation
 
 faker is needed to generate fake log data (pip install faker)
